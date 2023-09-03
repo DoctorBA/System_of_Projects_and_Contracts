@@ -1,2 +1,1 @@
-# System_of_Projects_and_Contracts
-Test task
+This is a console application "System of Projects and Contracts" 
